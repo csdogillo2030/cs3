@@ -2,4 +2,4 @@
 hi
 
 ## Q1
--  [SG1_A1 Smart School Canteen Queue](q1_sg2_a1.md)
+-  [SG1_A1 Smart School Canteen Queue](q1/q1_sg2_a1.md)
