@@ -26,6 +26,7 @@ CT SKILLS:
 
 
 Pseudocode:
+
 // Canteen Food Supply Tracking
 
 FUNCTION ProcessOrder(itemID, quantity):
