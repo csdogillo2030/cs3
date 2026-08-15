@@ -16,8 +16,8 @@ if year<= 1899:
     print("Invalid Year, it should not be earlier than 1900.")
 else:
     x= (year - 2020) % 12
-    time.sleep(0.5)
+    time.sleep(1)
     print("Your Chinese Zodiac sign is: ", zodiac[x])
     
-time.sleep(0.5)
+time.sleep(1)
 print("Goodbye!")
