@@ -36,6 +36,6 @@ print("Goodbye!")
 
 time.sleep(2)
 ```
-![Output](q1_sg2_a3.png)
+![Output](q1/images/q1_sg2_a3.png)
 
-[Python](q1_sg2_a3.py)
+[Python](q1/q1_sg2_a3.py)
