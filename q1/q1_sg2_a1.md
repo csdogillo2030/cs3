@@ -26,7 +26,7 @@ CT SKILLS:
 
 
 Pseudocode:
-```
+```hi ignore me pls
 // Canteen Food Supply Tracking
 
 FUNCTION ProcessOrder(itemID, quantity):
