@@ -37,4 +37,5 @@ print("Goodbye!")
 time.sleep(2)
 ```
 ![Output](q1_sg2_a3.png)
+
 [Python](q1_sg2_a3.py)
