@@ -1,6 +1,8 @@
 # Annex A Computational Thinking Exercise: "Smart School Canteen Queue"
 9 - Balingkilat
+
 22 Charlize Sky A. Dogillo   8/12/2026
+
 Main Problem: The lack of crowd control due to slow service in the Canteen.
 
 SUB-PROBLEMS:
