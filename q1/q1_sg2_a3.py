@@ -23,4 +23,4 @@ else:
     
 time.sleep(1)
 print("Goodbye!")
-time.sleep(0.5)
+time.sleep(2)
