@@ -26,19 +26,22 @@ CT SKILLS:
 
 
 Pseudocode:
-
+```
 // Canteen Food Supply Tracking
 
 FUNCTION ProcessOrder(itemID, quantity):
     IF inventory[itemID].stock >= quantity THEN
+
         // Deduct ordered amount
         inventory[itemID].stock = inventory[itemID].stock - quantity
-        
+
         // Alert if stock is low
         IF inventory[itemID].stock <= inventory[itemID].reorderLimit THEN
             DISPLAY "Low Stock Alert: " + itemID
         ENDIF
+
         RETURN "Order Processed"
+
     ELSE
         RETURN "Error: Out of Stock"
     ENDIF
@@ -48,3 +51,4 @@ FUNCTION RestockItem(itemID, quantity):
     inventory[itemID].stock = inventory[itemID].stock + quantity
     DISPLAY "Stock Updated for " + itemID
 END FUNCTION
+```
