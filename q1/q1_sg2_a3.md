@@ -38,4 +38,4 @@ time.sleep(2)
 ```
 ![Output](images/q1_sg2_a3.png)
 
-[Python](q1/q1_sg2_a3.py)
+[Python](q1_sg2_a3.py)
