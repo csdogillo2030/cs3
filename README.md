@@ -5,7 +5,9 @@
 hi im sky welcome to my repository
 
 (remove later dont forget baka makatulog ka pa diyan) - sky to sky
+
 50% Guesses
+
 50% Educated Guesses
 
 ## Q1
