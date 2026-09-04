@@ -1,5 +1,12 @@
 # cs3
-hi
+#22 Charlize Sky A. Dogillo
+8 - Balingkilat
+
+hi im sky welcome to my repository
+
+(remove later dont forget baka makatulog ka pa diyan) - sky to sky
+50% Guesses
+50% Educated Guesses
 
 ## Q1
 -  [SG2_A1 Smart School Canteen Queue](q1/q1_sg2_a1.md)
