@@ -1,19 +1,18 @@
 # cs3
 #22 Charlize Sky A. Dogillo
-8 - Balingkilat
+9 - Balingkilat
 
 hi im sky welcome to my repository
-
-(remove later dont forget baka makatulog ka pa diyan) - sky to sky
 
 50% Guesses
 
 50% Educated Guesses
 
 ## Q1
--  [SG2_A1 Smart School Canteen Queue](q1/q1_sg2_a1.md)
--  [SG2_A2 Code Quality Assessment Worksheet](q1/q1_sg2_a1.md)
--  [SG2_A3 Implementing Selection Structure](q1/q1_sg2_a3.md)
--  [CLASS_ACTIVITY](q1/q1_mycar_balingkilat_dogillo.py)
--  [SG5_A1_Class Attributes and Methods](q1/q1_sg5_a1_balingkilat_dogillo.py)
--  [SG6_CHALLENGE 1 The Lab Manager Mission](q1/q1_sg6_balingkilat_dogillo.py)
+-  [SG2_Smart School Canteen Queue](q1/q1_sg2_a1.md)
+-  [SG2_Code Quality Assessment Worksheet](q1/q1_sg2_a1.md)
+-  [SG2_Implementing Selection Structure](q1/q1_sg2_a3.md)
+-  [SG5 Class Attributes and Methods](q1/q1_sg5_a1_balingkilat_dogillo.py)
+-  [SG6_The Lab Manager Mission](q1/q1_sg6_balingkilat_dogillo.py)
+-  [SG7 Code The Lab Inventory Hierarchy](q1/q1_sg7_balingkilat_dogillo.py)
+-  [CLASS_ACTIVITY Car](q1/q1_mycar_balingkilat_dogillo.py)
