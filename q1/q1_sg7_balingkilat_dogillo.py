@@ -20,7 +20,7 @@ class Beaker(Glassware):
 
 class Tray:
     def __init__(self):
-        # Composition: Tray creates and owns 5 Beakers
+      #NOTE TO SKY FROM SKY: yo uh where did you get the beaker amounts..
         self.beakers = [
             Beaker(100),
             Beaker(150),
