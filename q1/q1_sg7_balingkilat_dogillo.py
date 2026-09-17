@@ -20,7 +20,7 @@ class Beaker(Glassware):
 
 class Tray:
     def __init__(self):
-      #NOTE TO SKY FROM SKY: yo uh where did you get the beaker amounts..
+      #NOTE TO SKY FROM SKY: yo uh where did you get the beaker amounts.. also medyo over complicated
         self.beakers = [
             Beaker(100),
             Beaker(150),
