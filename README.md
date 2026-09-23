@@ -16,3 +16,4 @@ hi im sky welcome to my repository
 -  [SG6_The Lab Manager Mission](q1/q1_sg6_balingkilat_dogillo.py)
 -  [SG7 Code The Lab Inventory Hierarchy](q1/q1_sg7_balingkilat_dogillo.py)
 -  [CLASS_ACTIVITY Car](q1/q1_mycar_balingkilat_dogillo.py)
+-  [CLASS_ACTIVITY Tusok Tusok](q1/q1_tusoktusok_balingkilat_dogillo.py)
