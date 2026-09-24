@@ -17,4 +17,4 @@ hi im sky welcome to my repository
 -  [SG7 Code The Lab Inventory Hierarchy](q1/q1_sg7_balingkilat_dogillo.py)
 -  [CLASS_ACTIVITY Car](q1/q1_mycar_balingkilat_dogillo.py)
 -  [CLASS_ACTIVITY Tusok Tusok](q1/q1_tusoktusok_balingkilat_dogillo.py)
--  [SUMMATIVE ASSESSMENT](q1/q1_summative_assessment_balingkilat_dogillo.py)
+-  [SUMMATIVE ASSESSMENT](q1/q1_sa_balingkilat_dogillo.py)
