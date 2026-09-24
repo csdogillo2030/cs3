@@ -30,12 +30,11 @@ class Bank:
     
 
 class Account:
-  def __init__(name, number, type, balance= 0, accounts):
+  def __init__(name, number, type, balance= 0):
     self.name = accname
     self.number = accnumber
     self.type = acctype
     self.__balance = balance
-    self.accounts = 
     
 
 class SavingsAccount(Account):
