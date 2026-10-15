@@ -20,4 +20,4 @@ hi im sky welcome to my repository
 -  [SUMMATIVE_ASSESSMENT](q1/q1_sa_balingkilat_dogillo.py)
 
 ## Q2
-- 
+-  [FORMATIVE_ASSESSMENT 1](q2/fa1_balingkilat_dogillo.py)
