@@ -18,3 +18,6 @@ hi im sky welcome to my repository
 -  [CLASS_ACTIVITY Car](q1/q1_mycar_balingkilat_dogillo.py)
 -  [CLASS_ACTIVITY Tusok Tusok](q1/q1_tusoktusok_balingkilat_dogillo.py)
 -  [SUMMATIVE_ASSESSMENT](q1/q1_sa_balingkilat_dogillo.py)
+
+## Q2
+- 
