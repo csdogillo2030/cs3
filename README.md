@@ -21,3 +21,4 @@ hi im sky welcome to my repository
 
 ## Q2
 -  [FORMATIVE_ASSESSMENT 1](q2/fa1_balingkilat_dogillo.py)
+-  [FORMATIVE_ASSESSMENT 2](q2/fa2_balingkilat_dogillo.py)
