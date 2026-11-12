@@ -22,5 +22,3 @@ print(f'[pH Sensor] Reading: {sensor2.get_reading()}')
 print(f'[Temperature Sensor] Reading: {sensor1.get_reading()}')
 print("")
 print("----------------------------")
-
-my_sensor = Sensor()
